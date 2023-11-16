@@ -11,6 +11,6 @@ redirect_from:
 I'm a first year PHD student from [School of Biomedical Engineering](https://bme.sjtu.edu.cn/), [Shanghai JiaoTong University](https://www.sjtu.edu.cn/). My research interest includes medical AI, computer vision. I am currently supervised by [Prof. Jin Cheng](https://bme.sjtu.edu.cn/Web/FacultyDetail/913) from School of Biomedical Engineering, Shanghai JiaoTong University.
 
 
-You can find my CV here: [Zu WeiTao's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
+You can find my [CV](../assets/Curriculum_Vitae.pdf) here.
 
 [Email](mailto:zuweitao@sjtu.edu.cn) / [Github](https://github.com/vectorzwt) / [Wechat](../images/wechat.jpg) 
