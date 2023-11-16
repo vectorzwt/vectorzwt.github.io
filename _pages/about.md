@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Vectorzwt's Page"
+title: "vectorzwt's Page"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a fist year PHD student from [School of Biomedical Engineering](https://bme.sjtu.edu.cn/), [Shanghai JiaoTong University](https://www.sjtu.edu.cn/). My research interest includes medical AI, computer vision. I am currently supervised by [Prof. Jin Cheng](https://bme.sjtu.edu.cn/Web/FacultyDetail/913) from School of Biomedical Engineering, Shanghai JiaoTong University.
+I'm a first year PHD student from [School of Biomedical Engineering](https://bme.sjtu.edu.cn/), [Shanghai JiaoTong University](https://www.sjtu.edu.cn/). My research interest includes medical AI, computer vision. I am currently supervised by [Prof. Jin Cheng](https://bme.sjtu.edu.cn/Web/FacultyDetail/913) from School of Biomedical Engineering, Shanghai JiaoTong University.
 
 
 You can find my CV here: [Zu WeiTao's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
